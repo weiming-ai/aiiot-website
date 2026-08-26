@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Path-a-cpu/aiiot-website
+  repo: weiming-ai/aiiot-website
   branch: main
   base_url: https://x-aiiot.com
   auth_endpoint: /oauth/auth
